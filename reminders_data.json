@@ -1,0 +1,146 @@
+[
+    {
+        "24hour": 0,
+        "12hour": "12 AM",
+        "title": "12 AM",
+        "description": "Song: \"Fishing Vibes\" from Sonic Frontiers (2022)"
+    },
+    {
+        "24hour": 1,
+        "12hour": "1 AM",
+        "title": "1 AM",
+        "description": "Song: \"Kronos Island (2nd Mvt.)\" from Sonic Frontiers (2022)"
+    },
+    {
+        "24hour": 2,
+        "12hour": "2 AM",
+        "title": "2 AM",
+        "description": "Song: \"Event: Unbound\" from Sonic Adventure (1998)"
+    },
+    {
+        "24hour": 3,
+        "12hour": "3 AM",
+        "title": "3 AM",
+        "description": "Song: \"Dear My Friend\" from Sonic Unleashed (2008)"
+    },
+    {
+        "24hour": 4,
+        "12hour": "4 AM",
+        "title": "4 AM",
+        "description": "Song: \"The Chosen One\" from Shadow the Hedgehog (2005)"
+    },
+    {
+        "24hour": 5,
+        "12hour": "5 AM",
+        "title": "5 AM",
+        "description": "Song: \"Area: Planet Wisp\" from Sonic Colors (2010)"
+    },
+    {
+        "24hour": 6,
+        "12hour": "6 AM",
+        "title": "6 AM",
+        "description": "Song: \"Fly in the Freedom\" from Sonic Adventure 2 (2001)"
+    },
+    {
+        "24hour": 7,
+        "12hour": "7 AM",
+        "title": "7 AM",
+        "description": "Song: \"Can You Feel the Sunshine?\" from Sonic R (2007)"
+    },
+    {
+        "24hour": 8,
+        "12hour": "8 AM",
+        "title": "8 AM",
+        "description": "Song: \"Theme of Chao\" from Sonic Adventure (1998)"
+    },
+    {
+        "24hour": 9,
+        "12hour": "9 AM",
+        "title": "9 AM",
+        "description": "Song: \"A New Day\" from Sonic Rush (2005)"
+    },
+    {
+        "24hour": 10,
+        "12hour": "10 AM",
+        "title": "10 AM",
+        "description": "Song: \"Wacky Workbench (US)\" from Sonic CD (1993)"
+    },
+    {
+        "24hour": 11,
+        "12hour": "11 AM",
+        "title": "11 AM",
+        "description": "Song: \"Work It Out\" from Sonic R (1997)"
+    },
+    {
+        "24hour": 12,
+        "12hour": "12 AM",
+        "title": "12 AM",
+        "description": "Song: \"Collection Room (Door Into Summer)\" from Sonic Generations (2011)"
+    },
+    {
+        "24hour": 13,
+        "12hour": "1 PM",
+        "title": "1 PM",
+        "description": "Song: \"Theme of Metropolis Speedway\" from Sonic Free Riders (2010)"
+    },
+    {
+        "24hour": 14,
+        "12hour": "2 PM",
+        "title": "2 PM",
+        "description": "Song: \"Plant Kingdom (Act 1&2 Mix)\" from Sonic Rush Adventure (2007)"
+    },
+    {
+        "24hour": 15,
+        "12hour": "3 PM",
+        "title": "3 PM",
+        "description": "Song: \"Honeycomb Highway\" from Sonic Lost World (2013)"
+    },
+    {
+        "24hour": 16,
+        "12hour": "4 PM",
+        "title": "4 PM",
+        "description": "Song: \"Soleanna New City\" from Sonic the Hedgehog (2006)"
+    },
+    {
+        "24hour": 17,
+        "12hour": "5 PM",
+        "title": "5 PM",
+        "description": "Song: \"Dimension Heist (UFO Special Stage)\" from Sonic Mania (2017)"
+    },
+    {
+        "24hour": 18,
+        "12hour": "6 PM",
+        "title": "6 PM",
+        "description": "Song: \"Sonic's Theme\" from The Murder of Sonic the Hedgehog (2023)"
+    },
+    {
+        "24hour": 19,
+        "12hour": "7 PM",
+        "title": "7 PM",
+        "description": "Song: \"Where To Today?\" from Sonic Runners (2015)"
+    },
+    {
+        "24hour": 20,
+        "12hour": "8 PM",
+        "title": "8 PM",
+        "description": "Song: \"Reach for the Stars\" from Sonic Colors (2010)"
+    },
+    {
+        "24hour": 21,
+        "12hour": "9 PM",
+        "title": "9 PM",
+        "description": "Song: \"Empire City (Night)\" from Sonic Unleashed (2008)"
+    },
+    {
+        "24hour": 22,
+        "12hour": "10 PM",
+        "title": "10 PM",
+        "description": "Song: \"Apotos (Night)\" from Sonic Unleashed (2008)"
+    },
+    {
+        "24hour": 23,
+        "12hour": "11 PM",
+        "title": "11 PM",
+        "description": "Song: \"Dreams of an Absolution (Nightlight Version)\" from Sonic the Hedgehog (2006)"
+    }
+]
