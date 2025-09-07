@@ -35,7 +35,7 @@ pythoncom.CoInitializeEx(pythoncom.COINIT_APARTMENTTHREADED)
 reminders.toaster = InteractableWindowsToaster('Hourly Reminder', 'PrincessPandaLover.HourlyReminder')
 
 # Parsing
-parser = argparse.ArgumentParser(prog='Helper Reminder',
+parser = argparse.ArgumentParser(prog='Hourly Reminder',
                     description='An automated program that shows a reminder notification every hour, with a unique image and sound for each hour')
 parser.add_argument('-t', '--test',
                     type=str,
