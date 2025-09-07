@@ -69,4 +69,4 @@ Source code is licensed under the [MIT License](https://github.com/PrincessPanda
 
 While I wrote the code in my own words, the implementations of more advanced features, such as audio docking, multithreading with COM, and program optimization, were initially coded by the LLMs Claude Sonnet 4, Gemini 2.5 Pro, and GPT-5 via GitHub Copilot. (They were beyond my skill level, and I didn't have time to learn them by myself.)
 
-The *Sonic the Hedgehog* icons (from the [Sega's Sonic the Hedgehog](https://sonic.fandom.com/wiki/Sega%27s_Sonic_the_Sketchog) digital sticker collection) and song clips (from various games) are owned by Sega.
+The *Sonic the Hedgehog* icons (from the [Sega's Sonic the Hedgehog](https://sonic.fandom.com/wiki/Sega%27s_Sonic_the_Sketchog) digital sticker collection) and song clips (from various games) are owned and copyrighted by Sega.
