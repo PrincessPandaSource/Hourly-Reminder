@@ -24,7 +24,7 @@ Those who want the program to run the automatically on startup should make and c
 #### Customizing
 Text on the reminders can be customized by editing the `reminders_data.json`. Each hour has `title` and `description` details. `title` stores what's written in the first and wholly black text line of the notification, while `description` stores what's written in the second text line, which is also in slightly lighter color.
 
-Icons and sounds can be replaced in the `images` and `sounds` folders, respectively.
+Icons and sounds can be replaced in the `images` and `sounds` folders, respectively, in the `assets` folder.
 
 Icons for the reminders themselves must be in the PNG file format and named only with numerical values according to their assigned hours (24-hour format, no leading zeroes). The icon for the app icon must be in the ICO file format and named "app_icon". Icons are recommended to be in square size to prevent them from having parts cropped out in the notifications. There are countless image editors and converter tools; I used [GIMP](https://www.gimp.org/) and would recommend it. (Custom app icon is supported for the system tray, but cannot be changed for the executable. You may want to create a shortcut and change its icon instead.)
 
