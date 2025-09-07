@@ -47,13 +47,13 @@ parser.add_argument('-a', '--altaudio',
                     type=str,
                     nargs='?',
                     default='preset',
-                    help='change audio from preset audio ("preset") to either the default Windows asterick sound ("system") or no audio ("silence")'
+                    help='change sound from preset ones to either the default Windows asterick sound ("system") or none ("silence")'
 )
 parser.add_argument('-d', '--ducking',
                     type=float,
                     nargs='?',
                     const=0.35,
-                    help='enable ducking (lowering volume) of applications when the notification\'s sound plays, ducked volume can be specified from 0.0-1.0 (default is 0.35; this is currently experimental; expect bugs, and it cannot restore volumes of apps closed during the sound\'s playing; please check volume mixer if something sounds off)'
+                    help='enable ducking (lowering volume) of applications when the notification\'s sound plays, ducked volume can be specified from 0.0-1.0 (default is 0.35; this is currently experimental; expect bugs, and it cannot restore volumes of apps closed during the sound\'s playing; please check volume mixer if computer audio sounds off)'
 )
 args = parser.parse_args(sys.argv[1:])
 
