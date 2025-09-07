@@ -1,6 +1,4 @@
 # Hourly Reminder
-*README.md under construction*
-
 Hourly Reminder is a quick, little Python program I wrote that automatically sends notifications for each new hour, complete with a different icon and sound each time. It is intended to be similar to a cuckoo clock. I created it as an aid for ADHD, one of its major symptoms being time blindness, so I could be reminded of time passing and be more productive as the result.
 
 It is Windows-only for now.
@@ -67,7 +65,7 @@ Considering potentially common feedback:
 * In the future, I could not only update this program with my own art, but have the default assets be freely licensed icons and clips of royalty-free music instead of *Sonic* icons and song clips. (Previous assets used could still be stored in a separate folder.)
 
 # Credits and copyright
-Source code is licensed under the MIT License.
+Source code is licensed under the [MIT License](https://github.com/PrincessPandaSource/Hourly-Reminder/blob/main/LICENSE).
 
 While I wrote the code in my own words, the implementations of more advanced features, such as audio docking, multithreading with COM, and program optimization, were initially coded by the LLMs Claude Sonnet 4, Gemini 2.5 Pro, and GPT-5 via GitHub Copilot. (They were beyond my skill level, and I didn't have time to learn them by myself.)
 
